@@ -16,3 +16,85 @@ public class evenodd {
 	}
 
 }
+//greater no if else
+
+package suchitcb031;
+
+public class greater {
+
+	public static void main(String[] args) {
+		int num = 120;
+		if (num > 100)
+		{
+			System.out.println("Its Greater Than 100");
+		}
+		else
+		{
+			System.out.println("Lesser Than 100");
+		}
+
+	}
+
+}
+//vote if else
+
+package suchitcb031;
+
+public class vote {
+
+	public static void main(String[] args) {
+		int num = 15;
+		if (num > 18)
+		{
+			System.out.println("Eligible To Vote");
+		}
+		else
+		{
+			System.out.println("Not Eligible To vote");
+		}
+
+	}
+
+}
+
+//positivenega if else
+package suchitcb031;
+
+public class evenodd {
+
+	public static void main(String[] args) {
+		int num =7;
+		if(num % 2 == 0)
+		{
+			System.out.println("Its Even");
+		}
+		else
+		{
+			System.out.println("Its Odd");
+		}
+
+	}
+
+}
+
+// check vowels
+
+package suchitcb031;
+
+public class check {
+
+	public static void main(String[] args) {
+		char ch = 'e';
+		if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
+		{
+			System.out.println("THIS IS VOWELS");
+		}
+		else
+		{
+			System.out.println("This is consonants");
+		}
+	}
+
+}
+
+

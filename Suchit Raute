@@ -1,1 +1,18 @@
+package suchitcb031;
 
+public class evenodd {
+
+	public static void main(String[] args) {
+		int num =7;
+		if(num % 2 == 0)
+		{
+			System.out.println("Its Even");
+		}
+		else
+		{
+			System.out.println("Its Odd");
+		}
+
+	}
+
+}
